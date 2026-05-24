@@ -1,4 +1,4 @@
-![Troubleshooting Banner](troubleshooting-banner.png)
+![Troubleshooting Banner](troubleshooting-banner.png.png)
 # Troubleshooting — Claude CLI / npm Authentication
 
 ## 📌 Context
