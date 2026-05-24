@@ -1,4 +1,4 @@
-![Troubleshooting Banner](ChatGPT Image 24 de mai. de 2026, 11_26_36.png)
+![Troubleshooting Banner](troubleshooting-banner.png)
 # Troubleshooting — Claude CLI / npm Authentication
 
 ## 📌 Context
